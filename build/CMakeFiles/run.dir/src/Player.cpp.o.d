@@ -1,7 +1,7 @@
 CMakeFiles/run.dir/src/Player.cpp.o: \
- /home/arielalves/Desktop/Uni-Courses/Evolutionary-Systems-SCC0713/GA-Algorithms/Obstacles-Game/src/Player.cpp \
+ /home/arielalves/Desktop/EA-Obstacles-Game/src/Player.cpp \
  /usr/include/stdc-predef.h \
- /home/arielalves/Desktop/Uni-Courses/Evolutionary-Systems-SCC0713/GA-Algorithms/Obstacles-Game/include/Player.h \
+ /home/arielalves/Desktop/EA-Obstacles-Game/include/Player.h \
  /usr/include/c++/13/vector /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
@@ -142,7 +142,7 @@ CMakeFiles/run.dir/src/Player.cpp.o: \
  /usr/include/c++/13/tr1/poly_hermite.tcc \
  /usr/include/c++/13/tr1/poly_laguerre.tcc \
  /usr/include/c++/13/tr1/riemann_zeta.tcc \
- /home/arielalves/Desktop/Uni-Courses/Evolutionary-Systems-SCC0713/GA-Algorithms/Obstacles-Game/include/Utils.h \
+ /home/arielalves/Desktop/EA-Obstacles-Game/include/Utils.h \
  /usr/include/c++/13/random /usr/include/c++/13/cstdint \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \

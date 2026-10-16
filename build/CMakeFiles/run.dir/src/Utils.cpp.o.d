@@ -1,7 +1,7 @@
 CMakeFiles/run.dir/src/Utils.cpp.o: \
- /home/arielalves/Desktop/Uni-Courses/Evolutionary-Systems-SCC0713/GA-Algorithms/Obstacles-Game/src/Utils.cpp \
+ /home/arielalves/Desktop/EA-Obstacles-Game/src/Utils.cpp \
  /usr/include/stdc-predef.h \
- /home/arielalves/Desktop/Uni-Courses/Evolutionary-Systems-SCC0713/GA-Algorithms/Obstacles-Game/include/Utils.h \
+ /home/arielalves/Desktop/EA-Obstacles-Game/include/Utils.h \
  /usr/include/c++/13/random /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \

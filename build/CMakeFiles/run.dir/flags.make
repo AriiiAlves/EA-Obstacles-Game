@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/arielalves/Desktop/Uni-Courses/Evolutionary-Systems-SCC0713/GA-Algorithms/Obstacles-Game/include -isystem /usr/include/SDL2
+CXX_INCLUDES = -I/home/arielalves/Desktop/EA-Obstacles-Game/include -isystem /usr/include/SDL2
 
 CXX_FLAGS = -g -std=gnu++17
 

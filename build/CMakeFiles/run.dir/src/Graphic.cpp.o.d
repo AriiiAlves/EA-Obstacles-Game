@@ -1,7 +1,7 @@
 CMakeFiles/run.dir/src/Graphic.cpp.o: \
- /home/arielalves/Desktop/Uni-Courses/Evolutionary-Systems-SCC0713/GA-Algorithms/Obstacles-Game/src/Graphic.cpp \
+ /home/arielalves/Desktop/EA-Obstacles-Game/src/Graphic.cpp \
  /usr/include/stdc-predef.h \
- /home/arielalves/Desktop/Uni-Courses/Evolutionary-Systems-SCC0713/GA-Algorithms/Obstacles-Game/include/Graphic.h \
+ /home/arielalves/Desktop/EA-Obstacles-Game/include/Graphic.h \
  /usr/include/SDL2/SDL.h /usr/include/SDL2/SDL_main.h \
  /usr/include/SDL2/SDL_stdinc.h /usr/include/SDL2/SDL_config.h \
  /usr/include/x86_64-linux-gnu/SDL2/_real_SDL_config.h \
@@ -305,8 +305,8 @@ CMakeFiles/run.dir/src/Graphic.cpp.o: \
  /usr/include/c++/13/bits/basic_ios.tcc \
  /usr/include/c++/13/bits/ostream.tcc /usr/include/c++/13/istream \
  /usr/include/c++/13/bits/istream.tcc \
- /home/arielalves/Desktop/Uni-Courses/Evolutionary-Systems-SCC0713/GA-Algorithms/Obstacles-Game/include/Player.h \
- /home/arielalves/Desktop/Uni-Courses/Evolutionary-Systems-SCC0713/GA-Algorithms/Obstacles-Game/include/Utils.h \
+ /home/arielalves/Desktop/EA-Obstacles-Game/include/Player.h \
+ /home/arielalves/Desktop/EA-Obstacles-Game/include/Utils.h \
  /usr/include/c++/13/random /usr/include/c++/13/cstdint \
  /usr/include/c++/13/bits/random.h \
  /usr/include/c++/13/bits/uniform_int_dist.h \

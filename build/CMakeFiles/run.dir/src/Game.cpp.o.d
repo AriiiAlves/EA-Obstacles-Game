@@ -1,7 +1,7 @@
 CMakeFiles/run.dir/src/Game.cpp.o: \
- /home/arielalves/Desktop/Uni-Courses/Evolutionary-Systems-SCC0713/GA-Algorithms/Obstacles-Game/src/Game.cpp \
+ /home/arielalves/Desktop/EA-Obstacles-Game/src/Game.cpp \
  /usr/include/stdc-predef.h \
- /home/arielalves/Desktop/Uni-Courses/Evolutionary-Systems-SCC0713/GA-Algorithms/Obstacles-Game/include/Game.h \
+ /home/arielalves/Desktop/EA-Obstacles-Game/include/Game.h \
  /usr/include/c++/13/vector /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
@@ -116,7 +116,7 @@ CMakeFiles/run.dir/src/Game.cpp.o: \
  /usr/include/c++/13/bits/stl_tempbuf.h /usr/include/c++/13/cstdlib \
  /usr/include/c++/13/pstl/glue_algorithm_defs.h \
  /usr/include/c++/13/pstl/execution_defs.h \
- /home/arielalves/Desktop/Uni-Courses/Evolutionary-Systems-SCC0713/GA-Algorithms/Obstacles-Game/include/Utils.h \
+ /home/arielalves/Desktop/EA-Obstacles-Game/include/Utils.h \
  /usr/include/c++/13/random /usr/include/c++/13/string \
  /usr/include/c++/13/bits/stringfwd.h \
  /usr/include/c++/13/bits/char_traits.h \

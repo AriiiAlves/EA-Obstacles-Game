@@ -1,7 +1,7 @@
 CMakeFiles/run.dir/src/EvolutionTools.cpp.o: \
- /home/arielalves/Desktop/Uni-Courses/Evolutionary-Systems-SCC0713/GA-Algorithms/Obstacles-Game/src/EvolutionTools.cpp \
+ /home/arielalves/Desktop/EA-Obstacles-Game/src/EvolutionTools.cpp \
  /usr/include/stdc-predef.h \
- /home/arielalves/Desktop/Uni-Courses/Evolutionary-Systems-SCC0713/GA-Algorithms/Obstacles-Game/include/EvolutionTools.h \
+ /home/arielalves/Desktop/EA-Obstacles-Game/include/EvolutionTools.h \
  /usr/include/c++/13/vector /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
@@ -178,8 +178,8 @@ CMakeFiles/run.dir/src/EvolutionTools.cpp.o: \
  /usr/include/c++/13/bits/basic_ios.tcc \
  /usr/include/c++/13/bits/ostream.tcc /usr/include/c++/13/istream \
  /usr/include/c++/13/bits/istream.tcc \
- /home/arielalves/Desktop/Uni-Courses/Evolutionary-Systems-SCC0713/GA-Algorithms/Obstacles-Game/include/Player.h \
- /home/arielalves/Desktop/Uni-Courses/Evolutionary-Systems-SCC0713/GA-Algorithms/Obstacles-Game/include/Utils.h \
+ /home/arielalves/Desktop/EA-Obstacles-Game/include/Player.h \
+ /home/arielalves/Desktop/EA-Obstacles-Game/include/Utils.h \
  /usr/include/c++/13/random /usr/include/c++/13/cstdint \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
